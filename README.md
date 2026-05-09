@@ -12,9 +12,9 @@ A proposta desta biblioteca é organizar, em um só lugar, artigos publicados na
 
 ## Artigos
 
-### [“A verdadeira arte da medicina está em ouvir”: Walter Dresel publicou suas memórias](https://www.montevideo.com.uy/Conteudo-em-portugues/-A-verdadeira-arte-da-medicina-esta-em-ouvir--Walter-Dresel-publicou-suas-memorias-uc960867)
+### ["A verdadeira arte da medicina está em ouvir": Walter Dresel publicou suas memórias](https://www.montevideo.com.uy/Conteudo-em-portugues/-A-verdadeira-arte-da-medicina-esta-em-ouvir--Walter-Dresel-publicou-suas-memorias-uc960867)
 
-O médico Walter Dresel reflete sobre escuta clínica, vínculo humano e prática médica em suas memórias, destacando aspectos que dialogam com a visão integral valorizada pela Homeopatia e pelos médicos homeopatas. O artigo aborda sua trajetória profissional e sua defesa de uma medicina mais atenta à experiência do paciente.
+O médico Walter Dresel destaca, em suas memórias, a importância da escuta clínica e da relação humana no exercício da medicina, tema de interesse também para médicos homeopatas e para a prática homeopática. O artigo aborda sua trajetória profissional e sua visão sobre o cuidado integral do paciente.
 
 Fonte original: Montevideo Portal
 

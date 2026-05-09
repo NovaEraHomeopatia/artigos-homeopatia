@@ -14,7 +14,7 @@ A proposta desta biblioteca é organizar, em um só lugar, artigos publicados na
 
 ### [“A verdadeira arte da medicina está em ouvir”: Walter Dresel publicou suas memórias](https://www.montevideo.com.uy/Conteudo-em-portugues/-A-verdadeira-arte-da-medicina-esta-em-ouvir--Walter-Dresel-publicou-suas-memorias-uc960867)
 
-O médico uruguaio Walter Dresel relata em suas memórias a importância da escuta atenta, da relação humana no cuidado e da prática médica centrada no paciente. O artigo destaca reflexões sobre medicina, sofrimento humano e a experiência acumulada ao longo de sua trajetória profissional.
+O médico Walter Dresel reflete sobre escuta clínica, vínculo humano e prática médica em suas memórias, destacando aspectos que dialogam com a visão integral valorizada pela Homeopatia e pelos médicos homeopatas. O artigo aborda sua trajetória profissional e sua defesa de uma medicina mais atenta à experiência do paciente.
 
 Fonte original: Montevideo Portal
 
